@@ -1,9 +1,10 @@
+![Meeami Technologies](images/meeami_logo_full.png)
+
 # MAVEN
 
 **Meeami Audio Voice & Environment Dataset**
 
 75 audio vectors · AEC · TSE · Speech Enhancement · BVS · Noisy/Enhanced pairs
-
 
 ---
 
@@ -56,3 +57,21 @@ Enhanced audio holds under 9% WER across every ASR engine tested, versus a 26–
 
 ---
 
+Meet MAVEN and the Meeami audio front end at **Interspeech 2026**.
+
+## License
+
+CC BY 4.0 — Creative Commons Attribution 4.0 International
+
+## Citation
+
+```bibtex
+@dataset{maven2026,
+  author       = {Meeami Technologies},
+  title        = {MAVEN Dataset},
+  year         = {2026},
+  publisher    = {Meeami Technologies},
+  url          = {YOUR_DATASET_URL},
+  note         = {Audio enhancement benchmarking dataset}
+}
+```
