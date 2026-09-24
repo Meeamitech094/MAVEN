@@ -35,7 +35,7 @@ Across MAVEN benchmarks, aggressive echo, wind, babble, and background-voice sup
 
 ![TSE: Noisy vs. Enhanced WER](images/TSE.png)
 
-### Speech Enhancement (NC) Benchmark
+### Speech Enhancement Benchmark
 
 Enhanced audio holds under 9% WER across every ASR engine tested, versus a 26–49% noisy baseline.
 
