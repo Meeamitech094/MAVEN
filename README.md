@@ -29,7 +29,11 @@ Across MAVEN benchmarks, aggressive echo, wind, babble, and background-voice sup
 
 **Fig. 1 — AEC: Noisy vs. Enhanced WER (20 vectors)**
 
+![AEC: Noisy vs. Enhanced WER](images/AEC.png)
+
 **Fig. 2 — TSE: Noisy vs. Enhanced WER (20 vectors)**
+
+![TSE: Noisy vs. Enhanced WER](images/TSE.png)
 
 ### Noise Cancellation (NC) Benchmark
 
