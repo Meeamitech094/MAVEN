@@ -1,10 +1,12 @@
-![Meeami Technologies](images/meeami_logo_full.png)
-
 # MAVEN
 
 **Meeami Audio Voice & Environment Dataset**
 
 75 audio vectors · AEC · TSE · Speech Enhancement · BVS · Noisy/Enhanced pairs
+
+<p align="center">
+  <img src="images/meeami_logo_full.png" alt="Meeami Technologies" width="300">
+</p>
 
 ---
 
@@ -27,13 +29,14 @@ Across MAVEN benchmarks, aggressive echo, wind, babble, and background-voice sup
 
 ## Benchmark Results: Noisy vs. Enhanced WER
 
-**Fig. 1 — AEC: Noisy vs. Enhanced WER (20 vectors)**
+<p align="center">
+  <img src="images/AEC.png" alt="AEC: Noisy vs. Enhanced WER" width="45%">
+  <img src="images/TSE.png" alt="TSE: Noisy vs. Enhanced WER" width="45%">
+</p>
 
-![AEC: Noisy vs. Enhanced WER](images/AEC.png)
-
-**Fig. 2 — TSE: Noisy vs. Enhanced WER (20 vectors)**
-
-![TSE: Noisy vs. Enhanced WER](images/TSE.png)
+<p align="center">
+  <b>Fig. 1</b> — AEC: Noisy vs. Enhanced WER (20 vectors) &nbsp;&nbsp;&nbsp; <b>Fig. 2</b> — TSE: Noisy vs. Enhanced WER (20 vectors)
+</p>
 
 ### Speech Enhancement Benchmark
 
