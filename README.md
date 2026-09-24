@@ -60,7 +60,7 @@ Enhanced audio holds under 9% WER across every ASR engine tested, versus a 26–
 
 ---
 
-Meet MAVEN and the Meeami audio front end at **Interspeech 2026**.
+
 
 ## License
 
