@@ -4,7 +4,6 @@
 
 75 audio vectors · AEC · TSE · Speech Enhancement · BVS · Noisy/Enhanced pairs
 
-**INTERSPEECH 2026 — Dataset Preview**
 
 ---
 
@@ -57,4 +56,3 @@ Enhanced audio holds under 9% WER across every ASR engine tested, versus a 26–
 
 ---
 
-Meet MAVEN and the Meeami audio front end at **Interspeech 2026**.
